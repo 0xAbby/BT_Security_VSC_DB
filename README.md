@@ -23,6 +23,7 @@ These are not all possible security-relevant VSCs, but they are some of those mo
 * [Cambridge Silicon Radio (CSR)](./vendor/CSR.md)
 * [Cypress](./vendor/Cypress.md) (Purchased by Infineon)
 * [Espressif](./vendor/Espressif.md)
+* [Qualcomm](./vendor/Qualcomm.md)
 * [Realtek](./vendor/Realtek.md)
 * [Silicon Labs](./vendor/SiliconLabs.md)
 * [Texas Instruments](./vendor/TexasInstruments.md)
